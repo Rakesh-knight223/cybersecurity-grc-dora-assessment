@@ -1,0 +1,205 @@
+# BalticTrust Bank — Organization Profile
+
+## 1. Organization Overview
+
+BalticTrust Bank is a fictional European financial institution created for this cybersecurity Governance, Risk and Compliance (GRC) assessment.
+
+The institution provides digital banking and payment services to retail and business customers within the European Union.
+
+The organization is assumed to operate a technology-intensive environment consisting of internally managed infrastructure, cloud services, business applications and third-party ICT providers.
+
+---
+
+## 2. Organization Profile
+
+| Attribute | Description |
+|---|---|
+| Organization | BalticTrust Bank |
+| Industry | Financial Services |
+| Region | European Union |
+| Organization Type | Digital Financial Institution |
+| Employees | 850 |
+| Customers | 250,000 |
+| Primary Market | European Union |
+| Assessment Type | Cybersecurity GRC & DORA Assessment |
+| Organization Status | Fictional / Simulated |
+
+---
+
+## 3. Business Services
+
+BalticTrust Bank provides the following major services:
+
+- Online banking
+- Mobile banking
+- Payment processing
+- SEPA transfers
+- Card services
+- Loan services
+- Customer support
+- Account management
+
+---
+
+## 4. Key Business Processes
+
+| Process ID | Business Process | Criticality |
+|---|---|---|
+| BP-001 | Customer Account Management | Critical |
+| BP-002 | Payment Processing | Critical |
+| BP-003 | Online Banking | Critical |
+| BP-004 | Mobile Banking | Critical |
+| BP-005 | Card Processing | Critical |
+| BP-006 | Loan Management | High |
+| BP-007 | Customer Support | Medium |
+| BP-008 | Financial Reporting | High |
+
+---
+
+## 5. Organizational Departments
+
+| Department | Primary Responsibility |
+|---|---|
+| Executive Management | Business strategy and governance |
+| Information Technology | IT infrastructure and operations |
+| Cybersecurity | Security operations and security controls |
+| Risk Management | Enterprise and operational risk |
+| Compliance | Regulatory compliance |
+| Internal Audit | Independent assurance |
+| Finance | Financial management |
+| Human Resources | Workforce management |
+| Customer Operations | Customer services |
+| Procurement | Supplier and third-party management |
+
+---
+
+## 6. Key Cybersecurity Stakeholders
+
+| Stakeholder | Responsibility |
+|---|---|
+| Board of Directors | Oversight and risk governance |
+| Chief Information Security Officer (CISO) | Cybersecurity strategy |
+| Chief Information Officer (CIO) | IT strategy and operations |
+| Risk Manager | Cybersecurity and operational risk |
+| Compliance Manager | Regulatory compliance |
+| SOC Manager | Security monitoring and incident response |
+| IT Operations Manager | Infrastructure and system operations |
+| Internal Audit Manager | Independent control assessment |
+| Procurement Manager | ICT supplier management |
+
+---
+
+## 7. Technology Environment
+
+BalticTrust Bank is assumed to operate a hybrid technology environment consisting of on-premises infrastructure, cloud services, SaaS applications and employee endpoints.
+
+Major technology components include:
+
+- Core banking platform
+- Online banking platform
+- Mobile banking application
+- Payment processing platform
+- Identity and access management
+- Active Directory
+- Security Information and Event Management (SIEM)
+- Endpoint Detection and Response (EDR)
+- Backup infrastructure
+- Customer Relationship Management (CRM)
+- Corporate email
+- Employee workstations
+
+---
+
+## 8. Critical Information Assets
+
+The organization processes several categories of information:
+
+- Customer personal information
+- Account information
+- Payment information
+- Authentication information
+- Transaction records
+- Financial information
+- Employee information
+- Security logs
+- Business-critical operational data
+
+---
+
+## 9. ICT Third Parties
+
+The organization relies on several categories of ICT third-party providers:
+
+| Provider Category | Service | Criticality |
+|---|---|---|
+| Cloud Provider | Cloud infrastructure | Critical |
+| Payment Provider | Payment processing | Critical |
+| SaaS Provider | Customer management | High |
+| Security Provider | Security monitoring | High |
+| Communication Provider | Corporate communication | Medium |
+
+---
+
+## 10. Assessment Scope
+
+The cybersecurity GRC assessment covers:
+
+- Cybersecurity governance
+- IT asset management
+- Cybersecurity risk management
+- Identity and access management
+- Security monitoring
+- Vulnerability management
+- Incident management
+- Business continuity
+- Disaster recovery
+- ICT third-party risk management
+- Regulatory compliance
+- Security controls
+- Operational resilience
+
+---
+
+## 11. Assessment Objectives
+
+The assessment aims to:
+
+1. Identify critical information and technology assets.
+2. Identify cybersecurity risks affecting the organization.
+3. Assess existing cybersecurity controls.
+4. Identify control and compliance gaps.
+5. Map relevant controls to ISO/IEC 27001.
+6. Map cybersecurity activities to NIST CSF.
+7. Assess alignment with DORA requirements.
+8. Identify audit findings and remediation actions.
+9. Establish an evidence-tracking process.
+10. Provide management-level visibility into cybersecurity risk.
+
+---
+
+## 12. Assumptions
+
+This project is based on the following assumptions:
+
+- BalticTrust Bank is a fictional organization.
+- All systems, users, risks and findings are simulated.
+- No real customer information is used.
+- No real security credentials or infrastructure are represented.
+- Third-party providers are fictional or generic.
+- Assessment results are illustrative and intended for educational and portfolio purposes.
+
+---
+
+## 13. Assessment Limitations
+
+This project does not represent an actual audit, certification assessment or regulatory examination.
+
+The assessment is designed to demonstrate practical knowledge of cybersecurity GRC methodologies, risk management, security controls, regulatory alignment and operational resilience.
+
+---
+
+## 14. Next Assessment Stage
+
+The next stage of the project is to develop a detailed IT and cybersecurity asset inventory for BalticTrust Bank.
+
+The asset inventory will provide the foundation for the subsequent risk assessment.
